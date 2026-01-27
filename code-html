@@ -10,11 +10,11 @@
     <!-- HEADER -->
     <header>
         <figure>
-            <img src="images/minecraftcon-logo.png" alt="MinecraftCon Logo" width="120">
-            <figcaption>MinecraftCon Official Logo</figcaption>
+            <img src="images/minecraftcon-logo.png" alt="MinecraftCon Logo" width="140">
+            <figcaption>Official MinecraftCon Logo</figcaption>
         </figure>
         <h1>MinecraftCon 2026</h1>
-        <h2>The Ultimate Minecraft Community Convention</h2>
+        <h2>The Premier Minecraft Community Convention</h2>
     </header>
 
     <!-- NAVIGATION -->
@@ -22,7 +22,8 @@
         <ul>
             <li><a href="#about">About</a></li>
             <li><a href="#schedule">Schedule</a></li>
-            <li><a href="#guests">Guests</a></li>
+            <li><a href="#tracks">Event Tracks</a></li>
+            <li><a href="#community">Community</a></li>
             <li><a href="#location">Location</a></li>
         </ul>
     </nav>
@@ -32,78 +33,114 @@
     <!-- MAIN CONTENT -->
     <main>
 
-        <!-- ARTICLE 1 -->
+        <!-- ARTICLE: ABOUT -->
         <article id="about">
             <h3>About MinecraftCon</h3>
 
             <p>
-                <b>MinecraftCon</b> is an annual convention celebrating the game 
-                <cite>Minecraft</cite> and its creative community. Fans gather to explore
-                <mark>mods</mark>, <mark>redstone</mark>, and <mark>survival strategies</mark>.
+                <b>MinecraftCon</b> is an annual convention dedicated to celebrating
+                the creativity, innovation, and community surrounding the game
+                <cite>Minecraft</cite>.
             </p>
 
             <p>
-                The convention focuses on creativity, collaboration, and learning.
-                Whether you enjoy building, coding, or storytelling, there is something
-                for everyone.
+                Since its first release, Minecraft has encouraged players to explore,
+                build, and survive in a world made entirely of blocks. This event brings
+                together fans who enjoy <mark>creative mode</mark>,
+                <mark>survival gameplay</mark>, and <mark>technical design</mark>.
             </p>
 
             <blockquote>
-                “In Minecraft, every block is a new possibility.”
+                “Minecraft isn’t about the blocks — it’s about what you imagine you can build with them.”
             </blockquote>
 
             <p>
+                Competitive events such as
                 <abbr title="Player versus Player">PvP</abbr> tournaments and
-                <abbr title="Player versus Environment">PvE</abbr> challenges will be featured.
+                cooperative <abbr title="Player versus Environment">PvE</abbr> challenges
+                allow attendees to test their skills.
             </p>
         </article>
 
-        <!-- ARTICLE 2 -->
+        <!-- ARTICLE: SCHEDULE -->
         <article id="schedule">
-            <h3>Event Schedule</h3>
+            <h3>Convention Schedule</h3>
 
             <p>
-                The convention runs from 
-                <time datetime="2026-06-12">June 12, 2026</time> to 
+                MinecraftCon takes place from
+                <time datetime="2026-06-12">June 12, 2026</time> through
                 <time datetime="2026-06-14">June 14, 2026</time>.
             </p>
 
             <pre>
-Day 1: Keynotes and Panels
-Day 2: Workshops and Competitions
-Day 3: Community Builds and Closing Ceremony
+Day 1: Opening Ceremony, Developer Panels, Redstone Workshops
+Day 2: Build Competitions, PvP Tournaments, Creator Q&A
+Day 3: Community Mega Build, Awards, Closing Remarks
             </pre>
 
             <p>
-                Attendees will learn how commands like 
-                <code>/give</code> and <code>/fill</code> can transform gameplay.
+                Educational sessions demonstrate how commands like
+                <code>/fill</code>, <code>/execute</code>, and <code>/tp</code>
+                are used in advanced builds.
             </p>
 
-            <q>Minecraft teaches problem-solving through play.</q>
+            <q>Learning Minecraft commands is like learning a new language.</q>
         </article>
 
-        <!-- ARTICLE 3 -->
-        <article id="guests">
-            <h3>Featured Guests</h3>
+        <!-- ARTICLE: TRACKS -->
+        <article id="tracks">
+            <h3>Event Tracks</h3>
 
             <p>
-                Meet popular creators, developers, and educators from the Minecraft
-                community. Special panels will discuss game design and creativity.
+                MinecraftCon offers several focused tracks designed for different
+                play styles and interests.
             </p>
 
             <p>
-                Some sessions will explore <i>ethical building</i> in multiplayer servers
-                and <u>fair gameplay</u> practices.
+                The <b>Builder Track</b> focuses on architecture, city planning,
+                and large-scale world design using both <i>creative freedom</i>
+                and <u>technical precision</u>.
+            </p>
+
+            <p>
+                The <b>Technical Track</b> explores redstone engineering, automation,
+                and optimization strategies used by expert players.
             </p>
         </article>
 
-        <!-- SECTION -->
+        <!-- ARTICLE: COMMUNITY -->
+        <article id="community">
+            <h3>Community & Culture</h3>
+
+            <p>
+                At its core, MinecraftCon is about community. Players from around
+                the world gather to share ideas, collaborate on projects, and
+                celebrate their love for the game.
+            </p>
+
+            <blockquote>
+                “The best builds are the ones you make together.”
+            </blockquote>
+
+            <p>
+                Community guidelines emphasize respect, creativity, and
+                <mark>fair play</mark> in all convention events.
+            </p>
+        </article>
+
+        <!-- SECTION: LOCATION -->
         <section id="location">
-            <h3>Location</h3>
+            <h3>Location & Venue</h3>
 
             <p>
-                MinecraftCon 2026 will be hosted in Austin, Texas, offering a modern
-                venue with space for exhibits, tournaments, and workshops.
+                MinecraftCon 2026 will be hosted in Austin, Texas. The venue provides
+                open spaces for exhibitions, competition arenas, and collaborative
+                building areas.
+            </p>
+
+            <p>
+                The city’s strong tech culture makes it an ideal location for a
+                convention focused on creativity and innovation.
             </p>
         </section>
 
@@ -111,10 +148,10 @@ Day 3: Community Builds and Closing Ceremony
 
     <!-- ASIDE -->
     <aside>
-        <h4>Did You Know?</h4>
+        <h4>Quick Fact</h4>
         <p>
-            Minecraft was officially released in 2011 and remains one of the
-            best-selling video games of all time.
+            Minecraft is one of the best-selling video games of all time, with a
+            community that spans multiple generations of players.
         </p>
     </aside>
 
@@ -123,7 +160,7 @@ Day 3: Community Builds and Closing Ceremony
     <!-- FOOTER -->
     <footer>
         <p>
-            Contact us at <b>info@minecraftcon.com</b>
+            Contact: <b>info@minecraftcon.com</b>
         </p>
         <p>
             © 2026 MinecraftCon. All rights reserved.
