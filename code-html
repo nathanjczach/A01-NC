@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MinecraftCon 2026</title>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <figure>
+            <img src="images/minecraftcon-logo.png" alt="MinecraftCon Logo" width="120">
+            <figcaption>MinecraftCon Official Logo</figcaption>
+        </figure>
+        <h1>MinecraftCon 2026</h1>
+        <h2>The Ultimate Minecraft Community Convention</h2>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#schedule">Schedule</a></li>
+            <li><a href="#guests">Guests</a></li>
+            <li><a href="#location">Location</a></li>
+        </ul>
+    </nav>
+
+    <hr>
+
+    <!-- MAIN CONTENT -->
+    <main>
+
+        <!-- ARTICLE 1 -->
+        <article id="about">
+            <h3>About MinecraftCon</h3>
+
+            <p>
+                <b>MinecraftCon</b> is an annual convention celebrating the game 
+                <cite>Minecraft</cite> and its creative community. Fans gather to explore
+                <mark>mods</mark>, <mark>redstone</mark>, and <mark>survival strategies</mark>.
+            </p>
+
+            <p>
+                The convention focuses on creativity, collaboration, and learning.
+                Whether you enjoy building, coding, or storytelling, there is something
+                for everyone.
+            </p>
+
+            <blockquote>
+                “In Minecraft, every block is a new possibility.”
+            </blockquote>
+
+            <p>
+                <abbr title="Player versus Player">PvP</abbr> tournaments and
+                <abbr title="Player versus Environment">PvE</abbr> challenges will be featured.
+            </p>
+        </article>
+
+        <!-- ARTICLE 2 -->
+        <article id="schedule">
+            <h3>Event Schedule</h3>
+
+            <p>
+                The convention runs from 
+                <time datetime="2026-06-12">June 12, 2026</time> to 
+                <time datetime="2026-06-14">June 14, 2026</time>.
+            </p>
+
+            <pre>
+Day 1: Keynotes and Panels
+Day 2: Workshops and Competitions
+Day 3: Community Builds and Closing Ceremony
+            </pre>
+
+            <p>
+                Attendees will learn how commands like 
+                <code>/give</code> and <code>/fill</code> can transform gameplay.
+            </p>
+
+            <q>Minecraft teaches problem-solving through play.</q>
+        </article>
+
+        <!-- ARTICLE 3 -->
+        <article id="guests">
+            <h3>Featured Guests</h3>
+
+            <p>
+                Meet popular creators, developers, and educators from the Minecraft
+                community. Special panels will discuss game design and creativity.
+            </p>
+
+            <p>
+                Some sessions will explore <i>ethical building</i> in multiplayer servers
+                and <u>fair gameplay</u> practices.
+            </p>
+        </article>
+
+        <!-- SECTION -->
+        <section id="location">
+            <h3>Location</h3>
+
+            <p>
+                MinecraftCon 2026 will be hosted in Austin, Texas, offering a modern
+                venue with space for exhibits, tournaments, and workshops.
+            </p>
+        </section>
+
+    </main>
+
+    <!-- ASIDE -->
+    <aside>
+        <h4>Did You Know?</h4>
+        <p>
+            Minecraft was officially released in 2011 and remains one of the
+            best-selling video games of all time.
+        </p>
+    </aside>
+
+    <hr>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>
+            Contact us at <b>info@minecraftcon.com</b>
+        </p>
+        <p>
+            © 2026 MinecraftCon. All rights reserved.
+        </p>
+    </footer>
+
+</body>
+</html>
