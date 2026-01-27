@@ -7,7 +7,6 @@
 
 <body>
 
-    <!-- HEADER -->
     <header>
         <figure>
             <img src="images/minecraftcon-logo.png" alt="MinecraftCon Logo" width="140">
@@ -17,7 +16,6 @@
         <h2>The Premier Minecraft Community Convention</h2>
     </header>
 
-    <!-- NAVIGATION -->
     <nav>
         <ul>
             <li><a href="#about">About</a></li>
@@ -30,10 +28,8 @@
 
     <hr>
 
-    <!-- MAIN CONTENT -->
     <main>
 
-        <!-- ARTICLE: ABOUT -->
         <article id="about">
             <h3>About MinecraftCon</h3>
 
@@ -62,7 +58,6 @@
             </p>
         </article>
 
-        <!-- ARTICLE: SCHEDULE -->
         <article id="schedule">
             <h3>Convention Schedule</h3>
 
@@ -87,7 +82,6 @@ Day 3: Community Mega Build, Awards, Closing Remarks
             <q>Learning Minecraft commands is like learning a new language.</q>
         </article>
 
-        <!-- ARTICLE: TRACKS -->
         <article id="tracks">
             <h3>Event Tracks</h3>
 
@@ -108,7 +102,6 @@ Day 3: Community Mega Build, Awards, Closing Remarks
             </p>
         </article>
 
-        <!-- ARTICLE: COMMUNITY -->
         <article id="community">
             <h3>Community & Culture</h3>
 
@@ -128,7 +121,6 @@ Day 3: Community Mega Build, Awards, Closing Remarks
             </p>
         </article>
 
-        <!-- SECTION: LOCATION -->
         <section id="location">
             <h3>Location & Venue</h3>
 
@@ -146,7 +138,6 @@ Day 3: Community Mega Build, Awards, Closing Remarks
 
     </main>
 
-    <!-- ASIDE -->
     <aside>
         <h4>Quick Fact</h4>
         <p>
@@ -157,7 +148,6 @@ Day 3: Community Mega Build, Awards, Closing Remarks
 
     <hr>
 
-    <!-- FOOTER -->
     <footer>
         <p>
             Contact: <b>info@minecraftcon.com</b>
